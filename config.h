@@ -20,7 +20,7 @@ static const char col_gray3[]       = "#360A52";
 static const char col_gray4[]       = "#B732BC";
 //Top bar second color (blue) and active window border color
 static const char col_cyan[]        = "#280D5E";
-static const unsigned int baralpha = 100;
+static const unsigned int baralpha = 140;
 static const unsigned int borderalpha = OPAQUE;
 static const char *colors[][3]      = {
 	/*               fg         bg         border   */
